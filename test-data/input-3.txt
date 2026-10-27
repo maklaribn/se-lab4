@@ -1,0 +1,3 @@
+# P hibaja utan SINGLE modban nincs atvaltas a mukodo S-re.
+GT4500,1,1,1,0
+TORPEDO,SINGLE
