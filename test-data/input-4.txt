@@ -1,0 +1,4 @@
+# ALL mindket torpedot kilovi. Az utolagos SINGLE ellenorzi, hogy nem maradt torpedo.
+GT4500,1,0,1,0
+TORPEDO,ALL
+TORPEDO,SINGLE

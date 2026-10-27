@@ -1,0 +1,3 @@
+# ALL: mindket tarolo hibazik.
+GT4500,1,1,1,1
+TORPEDO,ALL
